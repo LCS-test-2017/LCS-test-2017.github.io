@@ -1,11 +1,13 @@
 body {
-	
+	background: black;
 }
 	
 #contents {
-   margin-left: auto;
-    margin-right: auto;
-   width: 700px;
+   	margin-left: auto;
+    	margin-right: auto;
+   	width: 700px;
+	background-color: lightgrey;
+	color: #9c3;
 }
 
 h1 { 
@@ -28,10 +30,11 @@ a:visited {
 
 }
  
- #home, #page2 {
-
+ #home{
+   color:darkgrey;
  }
  
+
  h3 {
 
 }
